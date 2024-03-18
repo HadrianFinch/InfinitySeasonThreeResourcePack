@@ -1,0 +1,35 @@
+Vanilla Tweaks Resource Pack
+Version: 1.20
+Packs:
+	LowerGrass
+	LowerSnow
+	LowerPodzol
+	LowerPaths
+	NoBowlParticles
+	SmileyAxolotls
+	OldEnchantGlint
+	WitherHearts
+	NoPumpkinOverlay
+	InvisibleTotem
+	BorderlessTintedGlass
+	BorderlessStainedGlass
+	BorderlessGlass
+	VisualWaxedCopperItems
+	ClearBannerPatterns
+	SuspiciousSandGravelBorders
+	QuieterMinecarts
+	SplashXpBottle
+	EndlessEndRods
+	FlintTippedArrows
+	UniqueDyes
+	AnimatedCampfireItem
+	NumberedHotbar
+	DarkUI
+	ConsistentUIFix
+	NoSpyglassOverlay
+	AccurateSpyglass
+
+Combined packs:
+	AccurateSpyglass+NoSpyglassOverlay
+	ConsistentUIFix+DarkUI
+	DarkUI+NumberedHotbar

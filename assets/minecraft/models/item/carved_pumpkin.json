@@ -1,0 +1,29 @@
+{
+	"parent": "block/carved_pumpkin",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 3001
+			},
+			"model": "item/vertin_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3003
+			},
+			"model": "item/antlers"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3004
+			},
+			"model": "item/mystery"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5001
+			},
+			"model": "item/goggles"
+		}
+	]
+}
