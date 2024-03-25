@@ -10,12 +10,12 @@ jobs:
       uses: TheDoctor0/zip-release@0.7.6
       with:
         # Filename for archive
-        filename: archive.zip # default is release.zip
+        filename: archive.zip
         # Base path for archive files
-        path: .# optional, default is .
+        path: .
         # Working directory before zipping
-        directory: . # optional, default is .
+        directory: .
         # List of excluded files / directories
-        exclusions: archive.zip # optional, default is 
+        exclusions: archive.zip 
         # Tool to use for archiving
-        type: zip # optional, default is zip
+        type: zip 
