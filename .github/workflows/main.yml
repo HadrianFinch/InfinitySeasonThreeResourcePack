@@ -4,17 +4,6 @@ jobs:
   compress-to-zip:
     runs-on: ubuntu-latest
     steps:
-    - name: Create Archive
-      # You may pin to the exact commit or the version.
-      # uses: ksm2/archive-action@26f3916d64de744640cabc01f84aa4a34524a419
-      uses: ksm2/archive-action@v1
+    - uses: montudor/action-zip@v1
       with:
-        # The directory to archive from
-        root-directory: . # optional
-        # A glob pattern for files to include
-        # include: # optional
-        # Archive format to use
-        format: zip # default is zip
-        # Name for the archive
-        name: archive.zip
-          
+        args: zip -qq -r archive.zip .
