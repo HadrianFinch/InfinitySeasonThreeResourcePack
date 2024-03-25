@@ -1,7 +1,7 @@
 on: push
 
 jobs:
-  secret-generator:
+  compress-to-zip:
     runs-on: ubuntu-latest
     steps:
     - name: Zip Release
@@ -9,13 +9,13 @@ jobs:
       # uses: TheDoctor0/zip-release@b57d897cb5d60cb78b51a507f63fa184cfe35554
       uses: TheDoctor0/zip-release@0.7.6
       with:
-        # Filename for archive
-        filename: archive.zip
-        # Base path for archive files
-        path: .
-        # Working directory before zipping
-        directory: .
-        # List of excluded files / directories
-        exclusions: archive.zip 
+        # # Filename for archive
+        # filename: archive.zip
+        # # Base path for archive files
+        # path: .
+        # # Working directory before zipping
+        # directory: .
+        # # List of excluded files / directories
+        # exclusions: archive.zip 
         # Tool to use for archiving
         type: zip 
