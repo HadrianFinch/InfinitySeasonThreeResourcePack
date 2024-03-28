@@ -1,9 +1,25 @@
-on: push
-
+name: Create Archive
+on: [push]
 jobs:
-  compress-to-zip:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - uses: montudor/action-zip@v1
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: pull latest and remove old file from repo
+      run: |
+        git config --global user.name "hadrian Finch"
+        git config --global user.email "hadrianfinch@outlook.com"
+        git config pull.rebase false
+        git pull
+        rm -f release.zip
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
       with:
-        args: zip -FSr output.zip assets ../pack.mcmeta ../pack.png ../overlay_18
+        filename: 'release.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: push changes to remote
+      run: |
+        git add -A
+        git commit -m "new pack"
+        git push --force
