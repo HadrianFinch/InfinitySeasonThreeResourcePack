@@ -6,7 +6,7 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 3006
+                "custom_model_data": 30
             },
             "model": "minecraft:item/Jack_Trident"
         }
