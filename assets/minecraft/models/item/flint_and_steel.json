@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/flint_and_steel"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "minecraft:item/kaiafire"
+        }
+    ]
+}
