@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "infinityseasonthree:item/chain_scythe_blade"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "minecraft:item/chainscythe"
+        }
+    ]
+}
