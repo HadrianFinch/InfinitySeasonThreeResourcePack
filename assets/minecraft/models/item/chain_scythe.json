@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 73
             },
-            "model": "minecraft:item/customchainscythe"
+            "model": "infinityseasonthree:item/customchainscythe"
         }
     ]
 }
