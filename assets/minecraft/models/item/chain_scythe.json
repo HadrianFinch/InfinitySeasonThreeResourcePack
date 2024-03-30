@@ -1,5 +1,5 @@
 {
-    "parent": "infinityseasonthree:item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
         "layer0": "infinityseasonthree:item/chain_scythe_blade"
     },
