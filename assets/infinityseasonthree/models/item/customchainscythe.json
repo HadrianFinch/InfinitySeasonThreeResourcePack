@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "infinityseasonthree:/chainscythe1",
-		"1": "infinityseasonthree:/chainscythe2",
-		"2": "infinityseasonthree:/chainscythe3",
-		"3": "infinityseasonthree:/chainscythe4",
-		"4": "infinityseasonthree:/chainscythe5",
-		"particle": "infinityseasonthree:/chainscythe1"
+		"0": "infinityseasonthree:item/chainscythe1",
+		"1": "infinityseasonthree:item/chainscythe2",
+		"2": "infinityseasonthree:item/chainscythe3",
+		"3": "infinityseasonthree:item/chainscythe4",
+		"4": "infinityseasonthree:item/chainscythe5",
+		"particle": "infinityseasonthree:item/chainscythe1"
 	},
 	"elements": [
 		{
