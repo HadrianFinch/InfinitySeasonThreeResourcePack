@@ -1,5 +1,5 @@
 {
-    "parent": "iinfinityseasonthree:item/chain_scythe_blade",
+    "parent": "infinityseasonthree:item/chain_scythe_blade",
     "overrides": [
         {
             "predicate": {
