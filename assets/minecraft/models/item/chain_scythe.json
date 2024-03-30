@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "infinityseasonthree:item/handheld",
     "textures": {
         "layer0": "infinityseasonthree:item/chain_scythe_blade"
     },
@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 73
             },
-            "model": "minecraft:item/customchainscythe"
+            "model": "infinityseasonthree:item/customchainscythe"
         }
     ]
 }
