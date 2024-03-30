@@ -8,7 +8,7 @@
 		"5": "item/runicsword4",
 		"6": "item/runicsword5",
 		"7": "item/runicsword6",
-		"particle": "C:item/runicsword1"
+		"particle": "item/runicsword1"
 	},
 	"elements": [
 		{
