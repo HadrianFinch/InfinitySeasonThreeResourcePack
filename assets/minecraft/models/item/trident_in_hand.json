@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/trident"
+    "parent": "minecraft:item/trident",
     "overrides": [
         {
             "predicate": {
