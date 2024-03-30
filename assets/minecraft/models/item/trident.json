@@ -12,17 +12,3 @@
         }
     ]
 }
-{
-    "parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "minecraft:item/trident_in_hand"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 30
-            },
-            "model": "minecraft:item/Jack_Trident"
-        }
-    ]
-}
