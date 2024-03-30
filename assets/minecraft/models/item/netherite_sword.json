@@ -9,12 +9,6 @@
                 "custom_model_data": 3004
             },
             "model": "minecraft:item/amethystsword"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3006
-            },
-            "model": "minecraft:item/jacksword"
         }
     ]
 }
