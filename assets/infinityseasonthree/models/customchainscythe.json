@@ -7,7 +7,7 @@
 		"2": "item/chainscythe3",
 		"3": "item/chainscythe4",
 		"4": "item/chainscythe5",
-		"particle": "infinityseasonthree:item/chainscythe1"
+		"particle": "item/chainscythe1"
 	},
 	"elements": [
 		{
