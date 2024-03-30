@@ -1,8 +1,5 @@
 {
-    "parent": "infinityseasonthree:item/handheld",
-    "textures": {
-        "layer0": "infinityseasonthree:item/chain_scythe_blade"
-    },
+    "parent": "iinfinityseasonthree:item/chain_scythe_blade",
     "overrides": [
         {
             "predicate": {
