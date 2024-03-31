@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/bow"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 3004
+            },
+            "model": "minecraft:item/amethystbowempty1"
+        }
+    ]
+}
