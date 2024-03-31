@@ -82,29 +82,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 3004
-                 "pulling": 1
-            },
-            "model": "minecraft:amethystbow1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3004
-                  "pulling": 1,
-                  "pull": 0.65
-            },
-            "model": "minecraft:amethystbow2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3004
-                  "pulling": 1,
-                  "pull": 0.9
-            },
-            "model": "minecraft:amethystbow3"
-        },
-        {
-            "predicate": {
                 "pulling": 1
             },
             "model": "minecraft:item/bow_pulling_0"
