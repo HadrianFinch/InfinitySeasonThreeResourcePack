@@ -93,12 +93,6 @@
                 "pull": 0.9
             },
             "model": "minecraft:item/bow_pulling_2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3004
-            },
-            "model": "minecraft:amethystbow"
         }
     ]
 }
