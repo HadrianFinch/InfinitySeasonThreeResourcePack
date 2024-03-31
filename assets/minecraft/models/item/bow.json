@@ -1,8 +1,5 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/bow"
-  },
+  "parent": "minecraft:item/bow",
   "display": {
     "thirdperson_righthand": {
       "rotation": [
