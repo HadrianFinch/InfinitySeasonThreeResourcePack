@@ -75,6 +75,14 @@
       "predicate": {
         "custom_model_data": 3004
       },
+      "model": "minecraft:amethystbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3004,
+      "pulling" : 1,
+      "pull" : 0.65
+      },
       "model": "minecraft:amethystbow1"
     },
     {
