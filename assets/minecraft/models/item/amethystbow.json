@@ -1,5 +1,5 @@
 {
-    "parent": "item/the_empty_one_goes_here",
+    "parent": "item/amethystbowempty1",
     "display": {
         "thirdperson_righthand": {
             "rotation": [
@@ -75,7 +75,7 @@
             "predicate": {
                 "pulling": 1
             },
-            "model": "minecraft:item/amethyst_bow_fill_in_the_rest"
+            "model": "minecraft:item/amethystbow1"
         },
         {
             "predicate": {
