@@ -6,6 +6,12 @@
                 "custom_model_data": 73
             },
             "model": "infinityseasonthree:item/customchainscythe"
+        }, 
+        {
+            "predicate": {
+                "custom_model_data": 3006
+            },
+            "model": "infinityseasonthree:item/Jack_Trident"
         }
     ]
 }
