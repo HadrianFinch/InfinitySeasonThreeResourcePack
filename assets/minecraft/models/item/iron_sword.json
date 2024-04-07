@@ -21,6 +21,12 @@
                 "custom_model_data": 3006
             },
             "model": "minecraft:item/jacksword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3007
+            },
+            "model": "minecraft:item/Jack_Trident"
         }
     ]
 }
