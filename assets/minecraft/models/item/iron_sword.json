@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 3003
+            },
+            "model": "infityseasonthree:item/customchainscythe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3004
             },
             "model": "minecraft:item/runicsword"
