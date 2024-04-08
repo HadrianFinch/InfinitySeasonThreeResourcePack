@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 3003
             },
-            "model": "minecraft:item/lylatotem"
+            "model": "minecraft:models/item/lylatotem"
         },
         {
             "predicate": {
