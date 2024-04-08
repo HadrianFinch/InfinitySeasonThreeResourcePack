@@ -10,6 +10,12 @@
                 "custom_model_data": 3005
             },
             "model": "item/vertinsuitcase"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4000
+            },
+            "model": "item/lylatotem"
         }
     ],
     "display": {

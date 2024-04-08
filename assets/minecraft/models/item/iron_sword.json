@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 3003
+            },
+            "model": "minecraft:item/lylatotem"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3004
             },
             "model": "minecraft:item/runicsword"
@@ -21,6 +27,12 @@
                 "custom_model_data": 3006
             },
             "model": "minecraft:item/jacksword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3007
+            },
+            "model": "minecraft:item/Jack_Trident"
         }
     ]
 }
