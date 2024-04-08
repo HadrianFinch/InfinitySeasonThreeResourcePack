@@ -6,7 +6,7 @@
 		"3": "item/lantern3",
 		"4": "item/lantern4",
 		"5": "item/lantern5",
-		"6": "block/texture",
+		"6": "item/lantern6",
 		"particle": "item/lantern3"
 	},
 	"elements": [
