@@ -4,6 +4,20 @@
     "textures": {
       "layer0": "minecraft:item/totem_of_undying"
     },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 3005
+            },
+            "model": "item/vertinsuitcase"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4000
+            },
+            "model": "minecraft:item/lylatotem"
+        }
+    ], 
     "display": {
         "ground": {
             "rotation": [ 0, 0, 0 ],
@@ -30,18 +44,4 @@
             "scale": [ 1, 1, 1 ]
         }
     }
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 3005
-            },
-            "model": "item/vertinsuitcase"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4000
-            },
-            "model": "minecraft:item/lylatotem"
-        }
-    ],  
 }
