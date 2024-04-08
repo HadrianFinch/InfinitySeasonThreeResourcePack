@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "C:/Users/christou/Desktop/blockbench/lantern/lantern1",
-		"2": "C:/Users/christou/Desktop/blockbench/lantern/lantern2",
-		"3": "C:/Users/christou/Desktop/blockbench/lantern/lantern3",
-		"4": "C:/Users/christou/Desktop/blockbench/lantern/lantern4",
-		"5": "C:/Users/christou/Desktop/blockbench/lantern/lantern5",
+		"1": "item/lantern1",
+		"2": "item/lantern2",
+		"3": "item/lantern3",
+		"4": "item/lantern4",
+		"5": "item/lantern5",
 		"6": "block/texture",
-		"particle": "C:/Users/christou/Desktop/blockbench/lantern/lantern3"
+		"particle": "item/lantern3"
 	},
 	"elements": [
 		{
