@@ -11,7 +11,7 @@
 		"5": "amethystbow36",
 		"6": "amethystbow37",
 		"7": "amethystbow38",
-		"particle": "item/amethystbow31"
+		"particle": "amethystbow-3-1"
 	},
 	"elements": [
 		{
@@ -298,13 +298,13 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, 90, 55],
-			"translation": [0, 4, 2.5],
+			"rotation": [0, 90, 0],
+			"translation": [0, -7, 0],
 			"scale": [0.85, 0.85, 0.85]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, -90, -55],
-			"translation": [0, 4, 2.5],
+			"rotation": [0, -90, 0],
+			"translation": [0, -7, 0],
 			"scale": [0.85, 0.85, 0.85]
 		},
 		"firstperson_righthand": {
@@ -316,6 +316,24 @@
 			"rotation": [0, -90, -25],
 			"translation": [0, 1.6, 0.8],
 			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"rotation": [82.81, 2.7, -26.66],
+			"translation": [0, -1.5, -3],
+			"scale": [0.51172, 0.51172, 0.51172]
+		},
+		"gui": {
+			"rotation": [-155.02, -48.1, -149.15],
+			"translation": [-1.75, -2.75, 0],
+			"scale": [0.55078, 0.55078, 0.55078]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -3.25, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, -45],
+			"translation": [-0.5, -7.75, 0]
 		}
 	},
 	"groups": [
