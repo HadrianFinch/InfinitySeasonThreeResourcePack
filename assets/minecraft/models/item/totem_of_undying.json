@@ -21,7 +21,7 @@
             "predicate": {
                 "custom_model_data": 3006
             },
-            "model": "minecraft:item/jacktotem"
+            "model": "minecraft:item/spellbook"
         }
     ], 
     "display": {
