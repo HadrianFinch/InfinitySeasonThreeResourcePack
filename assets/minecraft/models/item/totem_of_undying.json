@@ -16,6 +16,12 @@
                 "custom_model_data": 4000
             },
             "model": "minecraft:item/lylatotem"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3006
+            },
+            "model": "minecraft:item/jacktotem"
         }
     ], 
     "display": {
