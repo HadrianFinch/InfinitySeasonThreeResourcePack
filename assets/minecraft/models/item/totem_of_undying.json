@@ -21,7 +21,7 @@
             "predicate": {
                 "custom_model_data": 5000
             },
-            "model": "item/spellbook"
+            "model": "minecraft:item/spellbook"
         }
     ], 
     "display": {
