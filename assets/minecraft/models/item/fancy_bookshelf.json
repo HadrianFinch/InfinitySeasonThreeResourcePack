@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "fancyer_bookshelf",
-		"particle": "fancyer_bookshelf"
+		"0": "item/fancyer_bookshelf",
+		"particle": "item/fancyer_bookshelf"
 	},
 	"elements": [
 		{
