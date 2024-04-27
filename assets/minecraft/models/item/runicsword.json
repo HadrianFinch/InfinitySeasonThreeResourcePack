@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "item/runicsword1",
-		"3": "item/runicsword2",
+		"3": "item/runicsword2anim",
 		"4": "item/runicsword3",
 		"5": "item/runicsword4",
 		"6": "item/runicsword5",
