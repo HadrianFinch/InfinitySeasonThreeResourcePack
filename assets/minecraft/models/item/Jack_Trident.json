@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/jack_trident1",
-		"1": "item/jack_trident2",
-		"2": "item/jack_trident3",
-		"3": "item/jack_trident4",
-		"4": "item/jack_trident5",
-		"5": "item/jack_trident6",
-		"particle": "item/jack_trident5"
+		"0": "jack-trident1",
+		"1": "jack-trident2",
+		"2": "jack-trident3",
+		"3": "jack-trident4",
+		"4": "jack-trident5",
+		"5": "jack-trident6",
+		"particle": "jack-trident5"
 	},
 	"elements": [
 		{
@@ -557,7 +557,8 @@
 			"translation": [0, 23.25, 0]
 		},
 		"fixed": {
-			"rotation": [180, -90, 180]
+			"rotation": [180, -90, 180],
+			"scale": [2.4082, 2.4082, 2.4082]
 		}
 	},
 	"groups": [
