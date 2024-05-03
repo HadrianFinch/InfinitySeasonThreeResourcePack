@@ -1,7 +1,0 @@
-{
-  "overlay": {
-    "emissive": true,
-    "texture": "minecraft:textures/item/jack_trident5_overlay.png",
-    "transparency": "translucent"
-  }
-}
