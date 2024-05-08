@@ -1,6 +1,6 @@
 {
 	"parent": "block/carved_pumpkin",
-	"overrides": [
+	"overrides": 
 		{
 			"predicate": {
 				"custom_model_data": 1
@@ -12,6 +12,12 @@
 				"custom_model_data": 10
 			},
 			"model": "item/fancy_bookshelf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "item/petpainting"
 		},
 		{
 			"predicate": {
