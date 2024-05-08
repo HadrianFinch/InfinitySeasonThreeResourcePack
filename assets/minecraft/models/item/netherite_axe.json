@@ -6,7 +6,7 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 29
+                "custom_model_data": 3005
             },
             "model": "minecraft:item/jaxe"
         },
