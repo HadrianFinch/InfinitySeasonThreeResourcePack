@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "minecraft:item/jaxe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3002
             },
             "model": "minecraft:item/kaiawand"
