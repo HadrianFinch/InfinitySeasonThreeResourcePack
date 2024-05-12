@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/glass_bottle"
+    },
+    "overrides": [
+      {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "minecraft:item/sebottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "minecraft:item/sfbottle"
+        }
+    ]
+}
