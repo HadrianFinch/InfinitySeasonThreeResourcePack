@@ -6,12 +6,6 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "minecraft:item/runecircle"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 29
             },
             "model": "minecraft:item/jaxe"
