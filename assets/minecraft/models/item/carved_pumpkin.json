@@ -3,6 +3,24 @@
 	"overrides": [
 		{
 			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/nothing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "item/fancy_bookshelf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1000
+			},
+			"model": "item/petpainting"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 3001
 			},
 			"model": "item/vertin_hat"
@@ -27,7 +45,7 @@
 		},
 		{
 			"predicate": {
-				"custom_model_data": 5002
+				"custom_model_data": 6002
 			},
 			"model": "item/antleramulet"
 		}
