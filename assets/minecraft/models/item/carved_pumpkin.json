@@ -15,6 +15,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "item/Musroomhat"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 1000
 			},
 			"model": "item/petpainting"
