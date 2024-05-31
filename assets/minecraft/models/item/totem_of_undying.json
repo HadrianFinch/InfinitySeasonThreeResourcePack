@@ -7,6 +7,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "item/littlemushroom"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3005
             },
             "model": "item/vertinsuitcase"
