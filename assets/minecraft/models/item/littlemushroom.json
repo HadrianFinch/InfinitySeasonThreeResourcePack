@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mushroomhat1",
-		"1": "totemmush",
-		"particle": "mushroomhat1"
+		"0": "item/totemmush1",
+		"1": "item/totemmush",
+		"particle": "item/mushroomhat1"
 	},
 	"elements": [
 		{
