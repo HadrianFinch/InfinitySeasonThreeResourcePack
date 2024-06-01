@@ -4,6 +4,7 @@
 	"textures": {
 		"1": "item/jackcrystal1",
 		"2": "item/jackcrystal2"
+		"particle": "item/jackcrystal2"
 	},
 	"elements": [
 		{
