@@ -3,8 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/jackcrystal1",
-		"2": "item/jc2test"
-		"particle": "item/jc2test"
+		"2": "item/jackcrystal2"
 	},
 	"elements": [
 		{
@@ -247,7 +246,7 @@
 		{
 			"from": [8.3, 2.76016, 1.49375],
 			"to": [14.3, 4.76016, 3.49375],
-			"rotation": {"angle": 0, "axis": "z", "origin": [11.45, 3.4, 1.99375]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.45, 3.4, 1.99375]},
 			"faces": {
 				"north": {"uv": [0, 0, 5, 2], "texture": "#1"},
 				"east": {"uv": [5, 2, 7, 4], "texture": "#1"},
