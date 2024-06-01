@@ -54,6 +54,12 @@
 				"custom_model_data": 6002
 			},
 			"model": "item/antleramulet"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3005
+			},
+			"model": "item/Jackcrystals"
 		}
 	]
 }
