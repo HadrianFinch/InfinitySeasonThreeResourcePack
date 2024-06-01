@@ -27,6 +27,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 2000
+			},
+			"model": "item/Jackcrystals"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 3001
 			},
 			"model": "item/vertin_hat"
@@ -54,12 +60,6 @@
 				"custom_model_data": 6002
 			},
 			"model": "item/antleramulet"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3005
-			},
-			"model": "item/Jackcrystals"
 		}
 	]
 }
