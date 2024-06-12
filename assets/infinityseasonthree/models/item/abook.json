@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/abook1",
-		"1": "item/abook2",
-		"2": "item/abook3",
-		"3": "item/abook4",
+		"0": "infinityseasonthree:item/abook1",
+		"1": "infinityseasonthree:item/abook2",
+		"2": "infinityseasonthree:item/abook3",
+		"3": "infinityseasonthree:item/abook4",
 		"particle": "item/abook1"
 	},
 	"elements": [
