@@ -12,6 +12,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "minecraft:item/key"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3002
             },
             "model": "minecraft:item/kaiawand"
