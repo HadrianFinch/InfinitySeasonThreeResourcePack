@@ -45,6 +45,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 3005
+			},
+			"model": "item/colourshiftedunknown"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 5001
 			},
 			"model": "item/goggles"
