@@ -78,7 +78,13 @@
             "predicate": {
                 "custom_model_data": 3004
             },
-            "model": "minecraft:amethystbowempty1"
+            "model": "minecraft:amethystbowempty1" 
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9000
+            },
+            "model": "minecraft:darkamethystbow" 
         },
         {
             "predicate": {
