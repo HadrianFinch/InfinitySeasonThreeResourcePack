@@ -21,6 +21,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 404
+			},
+			"model": "item/vidredahovano"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 1000
 			},
 			"model": "item/petpainting"
